@@ -1,11 +1,6 @@
 .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable {
   z-index: 10000;
 }
-
-body {
-font-size: 5em;
-}
-
 .shortcode-option textarea,
 .shortcode-option label,
 .shortcode-option input,
